@@ -1,0 +1,226 @@
+***** Eval results 1777 *****
+accuracy = 0.9961658279415289
+f1-score = 0.9962281942479962
+loss = 0.019310750560666157
+precision = 1.0
+recall = 0.9924847346171912
+val_measure = -0.9962281942479962
+***** Eval results 3554 *****
+accuracy = 0.9973640067098011
+f1-score = 0.9974208675263775
+loss = 0.014766392695332276
+precision = 0.9957865168539326
+recall = 0.9990605918271489
+val_measure = -0.9974208675263775
+***** Eval results 5331 *****
+accuracy = 0.9983225497244189
+f1-score = 0.9983533286285581
+loss = 0.011047512194664282
+precision = 1.0
+recall = 0.9967120713950212
+val_measure = -0.9983533286285581
+***** Eval results 7108 *****
+accuracy = 0.9988018212317278
+f1-score = 0.9988249118683902
+loss = 0.006762323704661929
+precision = 0.9995296331138288
+recall = 0.9981211836542978
+val_measure = -0.9988249118683902
+***** Eval results 8885 *****
+accuracy = 0.9978432782171099
+f1-score = 0.9978898007033998
+loss = 0.011500740864611898
+precision = 0.9962546816479401
+recall = 0.9995302959135745
+val_measure = -0.9978898007033998
+***** Eval results 10662 *****
+accuracy = 0.9988018212317278
+f1-score = 0.998825463941743
+loss = 0.00600245307186438
+precision = 0.9990601503759399
+recall = 0.9985908877407234
+val_measure = -0.998825463941743
+***** Eval results 12439 *****
+accuracy = 0.9992810927390366
+f1-score = 0.9992949471210342
+loss = 0.008265103846793301
+precision = 1.0
+recall = 0.9985908877407234
+val_measure = -0.9992949471210342
+***** Eval results 14216 *****
+accuracy = 0.9988018212317278
+f1-score = 0.9988243592758053
+loss = 0.008509969593562506
+precision = 1.0
+recall = 0.9976514795678723
+val_measure = -0.9988243592758053
+***** Eval results 15993 *****
+accuracy = 0.9988018212317278
+f1-score = 0.9988249118683902
+loss = 0.010845139231082265
+precision = 0.9995296331138288
+recall = 0.9981211836542978
+val_measure = -0.9988249118683902
+***** Eval results 17770 *****
+accuracy = 0.9985621854780733
+f1-score = 0.9985902255639098
+loss = 0.011021524763057169
+precision = 0.999059708509638
+recall = 0.9981211836542978
+val_measure = -0.9985902255639098
+***** Eval results  *****
+accuracy = 0.9983225497244189
+f1-score = 0.9983556495184401
+loss = 0.008343889969418835
+precision = 0.9985902255639098
+recall = 0.9981211836542978
+val_measure = -0.9983556495184401
+***** Eval results  *****
+accuracy = 0.9892163910855499
+f1-score = 0.98932384341637
+loss = 0.06092790292788902
+precision = 0.9995206136145733
+recall = 0.9793330201972757
+val_measure = -0.98932384341637
+***** Eval results 1777 *****
+accuracy = 0.99568655643422
+f1-score = 0.9957766306898169
+loss = 0.014982745885397556
+precision = 0.9948429442100328
+recall = 0.9967120713950212
+val_measure = -0.9957766306898169
+***** Eval results  *****
+accuracy = 0.99568655643422
+f1-score = 0.9957766306898169
+loss = 0.014982745885397556
+precision = 0.9948429442100328
+recall = 0.9967120713950212
+val_measure = -0.9957766306898169
+***** Eval results  *****
+loss = 3.5212588887277283
+perplexity = tensor(33.8270)
+val_measure = 3.5212588887277283
+***** Eval results 923 *****
+loss = 1.5755475800882808
+perplexity = tensor(4.8334)
+val_measure = 1.5755475800882808
+***** Eval results 923 *****
+loss = 1.5755476133013755
+perplexity = tensor(4.8334)
+val_measure = 1.5755476133013755
+***** Eval results 923 *****
+loss = 1.5755476094992031
+perplexity = tensor(4.8334)
+val_measure = 1.5755476094992031
+***** Eval results 1846 *****
+loss = 1.4970964617174518
+perplexity = tensor(4.4687)
+val_measure = 1.4970964617174518
+***** Eval results 2769 *****
+loss = 1.4749983924862144
+perplexity = tensor(4.3710)
+val_measure = 1.4749983924862144
+***** Eval results 923 *****
+loss = 1.5755475926130842
+perplexity = tensor(4.8334)
+val_measure = 1.5755475926130842
+***** Eval results 1846 *****
+loss = 1.4970964765906558
+perplexity = tensor(4.4687)
+val_measure = 1.4970964765906558
+***** Eval results 2769 *****
+loss = 1.4749983873420986
+perplexity = tensor(4.3710)
+val_measure = 1.4749983873420986
+***** Eval results 923 *****
+loss = 1.5755476036841158
+perplexity = tensor(4.8334)
+val_measure = 1.5755476036841158
+***** Eval results 923 *****
+loss = 1.5779702070730042
+perplexity = tensor(4.8451)
+val_measure = 1.5779702070730042
+***** Eval results 923 *****
+loss = 1.571245492399298
+perplexity = tensor(4.8126)
+val_measure = 1.571245492399298
+***** Eval results 923 *****
+loss = 1.5801444541222607
+perplexity = tensor(4.8557)
+val_measure = 1.5801444541222607
+***** Eval results 1846 *****
+loss = 1.4947746960799198
+perplexity = tensor(4.4583)
+val_measure = 1.4947746960799198
+***** Eval results 2769 *****
+loss = 1.4754381661790845
+perplexity = tensor(4.3730)
+val_measure = 1.4754381661790845
+***** Eval results 923 *****
+loss = 1.4928230318969455
+perplexity = tensor(4.4496)
+val_measure = 1.4928230318969455
+***** Eval results 1846 *****
+loss = 1.490036659348078
+perplexity = tensor(4.4373)
+val_measure = 1.490036659348078
+***** Eval results 2769 *****
+loss = 1.4951417836418295
+perplexity = tensor(4.4600)
+val_measure = 1.4951417836418295
+***** Eval results 3692 *****
+loss = 1.5093565970156027
+perplexity = tensor(4.5238)
+val_measure = 1.5093565970156027
+***** Eval results 4615 *****
+loss = 1.5361872662075464
+perplexity = tensor(4.6468)
+val_measure = 1.5361872662075464
+***** Eval results 923 *****
+loss = 1.5019292020360984
+perplexity = tensor(4.4903)
+val_measure = 1.5019292020360984
+***** Eval results 1846 *****
+loss = 1.5015433539088314
+perplexity = tensor(4.4886)
+val_measure = 1.5015433539088314
+***** Eval results 2769 *****
+loss = 1.5251728392797996
+perplexity = tensor(4.5959)
+val_measure = 1.5251728392797996
+***** Eval results 997 *****
+loss = 1.5736935375779029
+perplexity = tensor(4.8244)
+val_measure = 1.5736935375779029
+***** Eval results 1994 *****
+loss = 1.4893078248227962
+perplexity = tensor(4.4340)
+val_measure = 1.4893078248227962
+***** Eval results 2991 *****
+loss = 1.472414030702208
+perplexity = tensor(4.3597)
+val_measure = 1.472414030702208
+***** Eval results 923 *****
+loss = 1.5435961295792395
+perplexity = tensor(4.6814)
+val_measure = 1.5435961295792395
+***** Eval results 1846 *****
+loss = 1.5578972998570813
+perplexity = tensor(4.7488)
+val_measure = 1.5578972998570813
+***** Eval results 923 *****
+loss = 1.554589339626009
+perplexity = tensor(4.7331)
+val_measure = 1.554589339626009
+***** Eval results 923 *****
+loss = 1.584605425281276
+perplexity = tensor(4.8774)
+val_measure = 1.584605425281276
+***** Eval results 923 *****
+loss = 1.6171891932590514
+perplexity = tensor(5.0389)
+val_measure = 1.6171891932590514
+***** Eval results 923 *****
+loss = 1.6562340873306265
+perplexity = tensor(5.2395)
+val_measure = 1.6562340873306265
